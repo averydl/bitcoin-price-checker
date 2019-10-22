@@ -1,0 +1,6 @@
+# output files
+*.json
+
+# MacOS
+.DS_Store
+
